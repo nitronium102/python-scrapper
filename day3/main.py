@@ -1,15 +1,3 @@
-"""
-Again, the code is broken, you need to create 4 functions.
-  - add_to_dict: Add a word to a dict.
-  - get_from_dict: Get a word from inside a dict.
-  - update_word: Update a word inside of the dict.
-  - delete_from_dict: Delete a word from the dict.
-
-All this functions should check for errors, follow the comments to see all cases you need to cover.
-
-There should be NO ERRORS from Python in the console.
-"""
-
 def add_to_dict(dictionary=None, word=None, definition=None):
   if type(dictionary) is not dict : 
     print(f"You need to send a dictionary. You send : {type(dictionary)}")
@@ -56,8 +44,6 @@ def delete_from_dict(dictionary=None, word=None):
     else :
       del dictionary[word]
       print(f"{word} has been deleted")
-
-# \/\/\/\/\/\/\ DO NOT TOUCH  \/\/\/\/\/\/\
 
 import os
 
@@ -147,5 +133,3 @@ delete_from_dict(my_english_dict, "kimchi")
 # Check that it does not exist
 print('\nget_from_dict(my_english_dict, "kimchi"):')
 get_from_dict(my_english_dict, "kimchi")
-
-# \/\/\/\/\/\/\ END DO NOT TOUCH  \/\/\/\/\/\/\
