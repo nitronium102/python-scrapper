@@ -1,0 +1,807 @@
+Cell_line,name,disease,category
+NCI-H23," NCI-H23 cell line, NCI-DTP",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H23," NCI-H23 cell line, ATCC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H23," NCI-H23 cell line, KCLB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H23," NCI-H23-Luc cell line, JCRB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H23," NCI-H23-Luc cell line, JCRB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H23," HCC60 cell line, ",Disease: Lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+EKVX," EKVX cell line, NCI-DTP",Disease: Lung adenocarcinoma,Category: Cancer cell line
+EKVX," EKVX cell line, BCRJ",Disease: Lung adenocarcinoma,Category: Cancer cell line
+EKVX," DEL cell line, DSMZ","Disease: Anaplastic large cell lymphoma, ALK-positive",Category: Cancer cell line
+Cell_line,name,disease,category
+NCI-H522," NCI-H522 cell line, NCI-DTP",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H522," NCI-H522 cell line, KCLB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H522," NCI-H522 cell line, KCLB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+NCI-H522," NCI-H522 cell line, ATCC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+KM20L2," KM20L2 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+A549/ATCC," A-549 cell line, BCRC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, DSMZ",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, ATCC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, JCRB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, RCB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, TKG",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, JCRB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, ATCC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, CCLV",Disease: Lung adenocarcinoma,Category: Cancer cell line
+A549/ATCC," A-549 cell line, ICLC",Disease: Lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+NCI-H322M," NCI-H322M cell line, NCI-DTP",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+NCI-H322M," NCI-H322 cell line, ECACC",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+NCI-H322M," NCI-H322 cell line, KCLB",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+NCI-H322M," NCI-H322 cell line, ATCC",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+CCRF-CEM," CCRF-CEM cell line, NCI-DTP",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM cell line, CLS",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM C7 cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM C7A cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM R30/6 cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM R3/7 cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM R30dm cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM C7H2 cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM C7H2-2C8 cell line, ",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+CCRF-CEM," CCRF-CEM cell line, JCRB",Disease: Childhood T acute lymphoblastic leukemia,Category: Cancer cell line
+Cell_line,name,disease,category
+SK-OV-3," SK-OV-3 cell line, NCI-DTP",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, CLS",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," LINTERNA SK-OV-3 cell line, ",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, ATCC",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, KCLB",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, IZSLER",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, KCB",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, NCBI_Iran",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, ECACC",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+SK-OV-3," SK-OV-3 cell line, ICLC",Disease: Ovarian serous cystadenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+NCI-H226," NCI-H226 cell line, NCI-DTP",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+NCI-H226," NCI-H226 cell line, KCLB",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+NCI-H226," NCI-H226 cell line, ATCC",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+NCI-H226," NCI-H226b cell line, ",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+NCI-H226," NCI-H226Br cell line, ",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+Cell_line,name,disease,category
+HOP-62," HOP-62 cell line, NCI-DTP",Disease: Lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+OVCAR-5," OVCAR-5 cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-5," OVCAR-5-CisR cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-5," OVCAR-5/RFP cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HCT-116," HCT 116 cell line, NCI-DTP",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," HCT 116 cell line, CLS",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," CellSensor LEF/TCF-bla HCT-116 cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," CellSensor p53RE-bla HCT-116 cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," CellSensor HRE-bla HCT-116 cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," CellSensor Myc-bla HCT-116 cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," HCT 116 cell line, KCB",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," HCT 116 cell line, BCRJ",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," HCT 116 cell line, ATCC",Disease: Colon carcinoma,Category: Cancer cell line
+HCT-116," HCT 116 cell line, BCRC",Disease: Colon carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HT29," HT-29 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, CCLV",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, ICLC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, DSMZ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, KCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, NCBI_Iran",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT29," HT-29 cell line, ATCC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+NCI-H460," NCI-H460 cell line, NCI-DTP",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460-Red-Fluc cell line, ",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," PathHunter NCI-H460 CDC25A Degradation cell line, ",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 MX10 cell line, ",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, KCLB",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, BCRC",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, DSMZ",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, KCB",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, CCLV",Disease: Large cell lung carcinoma,Category: Cancer cell line
+NCI-H460," NCI-H460 cell line, IZSLER",Disease: Large cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+NCI/ADR-RES," NCI-ADR-RES cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+K-562," K-562 cell line, NCI-DTP","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 cell line, CLS","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K562(A) cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K562(S) cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 CRISPRa cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 CRISPRa+SaCas9 clone C7 cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 CRISPRa+SaCas9 clone C11 cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 SimpleCell O-GalNAc cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 cell line, KCLB","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+K-562," K-562 cell line, CCLV","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+Cell_line,name,disease,category
+U251," U-251MG cell line, NCI-DTP",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, CLS",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, JCRB",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, ECACC",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, RCB",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, KCB",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG cell line, ICLC",Disease: Astrocytoma,Category: Cancer cell line
+U251," BC-020 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+U251," U-251MG sp cell line, ",Disease: Astrocytoma,Category: Cancer cell line
+U251," U-251MG AgCl1 cell line, ",Disease: Astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+RXF 393," RXF 393L cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HOP-18," HOP-18 cell line, NCI-DTP",Disease: Large cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+DMS 114," DMS 114 cell line, NCI-DTP",Disease: Small cell lung carcinoma,Category: Cancer cell line
+DMS 114," DMS 114 cell line, ATCC",Disease: Small cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+LOX IMVI," LOX-IMVI cell line, NCI-DTP",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+DLD-1," DLD-1 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 KRAS(+/-) 1 cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 KRAS(+/-) 2 cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 PIK3CA E545K KO cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 BBC3(-/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 FBXW7(-/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 AKT1(-/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 AKT2(-/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 BRCA2(+/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+DLD-1," DLD-1 BRCA2(-/-) cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HOP-92," HOP-92 cell line, ",Disease: Non-small cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Malme-3M," Malme-3M cell line, NCI-DTP",Disease: Melanoma,Category: Cancer cell line
+Malme-3M," Malme-3M cell line, KCLB",Disease: Melanoma,Category: Cancer cell line
+Malme-3M," Malme-3M cell line, BCRJ",Disease: Melanoma,Category: Cancer cell line
+Malme-3M," Malme-3M cell line, ATCC",Disease: Melanoma,Category: Cancer cell line
+Malme-3M," Malme-3 cell line, BCRJ",Disease: ,Category: Finite cell line
+Malme-3M," Malme-3 cell line, ATCC",Disease: ,Category: Finite cell line
+Malme-3M," Malme-3S cell line, ",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SW-620," SW620 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, ATCC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, KCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, BCRC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, ICLC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+SW-620," SW620-OX cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HCC-2998," HCC2998 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Hs 578T," Hs 578T cell line, NCI-DTP","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, KCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, KCLB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, BCRC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, ECACC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, DSMZ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs 578T cell line, ICLC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Hs 578T," Hs578T-Dox cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+HL-60(TB)," HL-60(TB) cell line, NCI-DTP",Disease: Adult acute myeloid leukemia,Category: Cancer cell line
+Cell_line,name,disease,category
+SNB-75," SNB-75 cell line, NCI-DTP",Disease: Glioblastoma,Category: Cancer cell line
+Cell_line,name,disease,category
+KM12," KM12 cell line, NCI-DTP",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-L4 cell line, KCLB",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-C cell line, ATCC",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-C cell line, KCLB",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12 MX10 cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-SM cell line, KCLB",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-Luc cell line, JCRB",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," KM12-Luc cell line, JCRB",Disease: Colon carcinoma,Category: Cancer cell line
+KM12," PCRP-TERF2IP-1B6 cell line, ",Disease: ,Category: Hybridoma
+KM12," KM12-HX cell line, ",Disease: Colon carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+LXFL 529," LXFL 529L cell line, NCI-DTP",Disease: Non-small cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SF-295," SF295 cell line, ",Disease: Glioblastoma,Category: Cancer cell line
+SF-295," SF295 MX10 cell line, ",Disease: Glioblastoma,Category: Cancer cell line
+SF-295," SF295/BN50 cell line, ",Disease: Glioblastoma,Category: Cancer cell line
+SF-295," SF295/hCPT50 cell line, ",Disease: Glioblastoma,Category: Cancer cell line
+Cell_line,name,disease,category
+HCT-15," HCT 15 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, RCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, DSMZ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, KCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, ATCC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, TKG",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HCT-15," HCT 15 cell line, BCRC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SK-MEL-28," SK-MEL-28 cell line, NCI-DTP",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, CLS",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, TKG",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, ICLC",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, BCRJ",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, RCB",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28 cell line, ATCC",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28-VR cell line, ",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28DDR1-PLXAZD cell line, ",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-28," SK-MEL-28R1-PLX cell line, ",Disease: Cutaneous melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+IGROV1," IGROV-1 cell line, NCI-DTP",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/MX3 cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/T8 cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/APL cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/25 ET cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/Pt0.5 cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/Pt1 cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+IGROV1," IGROV-1/CP cell line, ",Disease: Ovarian endometrioid adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+T-47D," T-47D cell line, NCI-DTP","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D cell line, CLS","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D shPARG cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D SimpleCell O-GalNAc cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D Tet-On cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D Tet-Off cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D cell line, ICLC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D cell line, NCBI_Iran","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D cell line, BCRJ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+T-47D," T-47D cell line, KCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+MCF7," MCF-7 cell line, NCI-DTP","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, CLS","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, JCRB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, NCBI_Iran","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, KCLB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, JCRB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, IZSLER","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, ECACC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+MCF7," MCF-7 cell line, KCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+MDA-MB-435," MDA-MB-435 cell line, NCI-DTP",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435HGF cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435-BAG cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435S cell line, KCB",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435S cell line, ATCC",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435S cell line, CLS",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435S cell line, BCRJ",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435S cell line, ICLC",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435 cell line, ATCC",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435," MDA-MB-435-LCC15 cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+DMS 273," DMS 273 cell line, ECACC",Disease: Small cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+COLO 205," COLO 205 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, RCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, KCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, TKG",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, BCRC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, ATCC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+COLO 205," COLO 205 cell line, ICLC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Calu-1," Calu-1 cell line, CLS",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 W5S2 cell line, ",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 W5-6 cell line, ATCC",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 cell line, ECACC",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 cell line, ICLC",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 cell line, ATCC",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Calu-1," Calu-1 cell line, IZSLER",Disease: Squamous cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+OVCAR-8," OVCAR-8 cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-8," OVCAR-8 RIA cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-8," OVCAR-8 RIIB cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-8," OV-1847 cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-8," NCI-ADR-RES cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+OVCAR-3," OVCAR-3 cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, CLS",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 SimpleCell O-GalNAc cell line, ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, ICLC",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, TKG",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, ATCC",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, KCLB",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, BCRJ",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, IZSLER",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+OVCAR-3," OVCAR-3 cell line, NCBI_Iran",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+ACHN," ACHN cell line, NCI-DTP",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, CLS",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN-luc2 cell line, ",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN-IL2 cell line, IZSLER",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, RCB",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, NCBI_Iran",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, ECACC",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, IZSLER",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, ICLC",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+ACHN," ACHN cell line, KCB",Disease: Papillary renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+RPMI-8226," RPMI-8226 cell line, NCI-DTP",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, CLS",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226/LR-5 cell line, ",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, TKG",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, ECACC",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, RCB",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, ATCC",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, ATCC",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, Coriell",Disease: Plasma cell myeloma,Category: Cancer cell line
+RPMI-8226," RPMI-8226 cell line, NCBI_Iran",Disease: Plasma cell myeloma,Category: Cancer cell line
+Cell_line,name,disease,category
+OVCAR-4," OVCAR-4 cell line, NCI-DTP",Disease: High grade ovarian serous adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+DU-145," DU145 cell line, NCI-DTP",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, CLS",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, TKG",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, ATCC",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, BCRJ",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, NCBI_Iran",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, DSMZ",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, RCB",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, IZSLER",Disease: Prostate carcinoma,Category: Cancer cell line
+DU-145," DU145 cell line, BCRC",Disease: Prostate carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+UO-31," UO-31 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+UACC-62," UACC-62 cell line, NCI-DTP",Disease: Melanoma,Category: Cancer cell line
+UACC-62," UACC62R cell line, ",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SK-MEL-2," SK-MEL-2 cell line, NCI-DTP",Disease: Melanoma,Category: Cancer cell line
+SK-MEL-2," SK-MEL-2 cell line, CLS",Disease: Melanoma,Category: Cancer cell line
+SK-MEL-2," SK-MEL-2 cell line, KCLB",Disease: Melanoma,Category: Cancer cell line
+SK-MEL-2," SK-MEL-2 cell line, ATCC",Disease: Melanoma,Category: Cancer cell line
+SK-MEL-2," SK-MEL-2-Luc cell line, JCRB",Disease: Melanoma,Category: Cancer cell line
+SK-MEL-2," SK-MEL-2-Luc cell line, JCRB",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+MOLT-4," MOLT-4 cell line, NCI-DTP",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, CLS",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 clone 8 cell line, NIH-ARP",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, ECACC",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, ICLC",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, BCRC",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, JCRB",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, RCB",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, BCRJ",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+MOLT-4," MOLT-4 cell line, NCBI_Iran",Disease: Adult T acute lymphoblastic leukemia,Category: Cancer cell line
+Cell_line,name,disease,category
+SF-268," SF268 cell line, NCI-DTP",Disease: Astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SK-MEL-5," SK-MEL-5 cell line, NCI-DTP",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-5," SK-MEL-5 cell line, CLS",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-5," SK-MEL-5 cell line, ATCC",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-5," SK-MEL-5 cell line, KCLB",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-5," SK-MEL-5 cell line, ICLC",Disease: Cutaneous melanoma,Category: Cancer cell line
+SK-MEL-5," SKMEL5/R cell line, ",Disease: Cutaneous melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+BT-549," BT-549 cell line, NCI-DTP","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549 cell line, CLS","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549 cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549 cell line, ICLC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549 cell line, KCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549-Dox cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549-Luc cell line, JCRB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549-Luc cell line, JCRB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," BT-549/RFP cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+BT-549," 11-9-1-4 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+SNB-19," SNB-19 cell line, NCI-DTP",Disease: Astrocytoma,Category: Cancer cell line
+SNB-19," SNB-19 cell line, DSMZ",Disease: Astrocytoma,Category: Cancer cell line
+SNB-19," SNB-19 cell line, JCRB",Disease: Astrocytoma,Category: Cancer cell line
+SNB-19," SNB-19 cell line, ATCC",Disease: Astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+MDA-N," MDA-N cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+P388," P388 cell line, NCI-DTP",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388/ADR cell line, NCI-DTP",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388D1 cell line, CLS",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388/S cell line, ",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388 cell line, RCB",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388 cell line, TKG",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388 cell line, BCRJ",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388 cell line, JCRB",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388D1 (IL-1) cell line, BCRJ",Disease: Mouse lymphoma,Category: Cancer cell line
+P388," P388D1 (IL-1) cell line, BCRC",Disease: Mouse lymphoma,Category: Cancer cell line
+Cell_line,name,disease,category
+TK-10," TK-10 cell line, NCI-DTP",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+TK-10," HAP1 SCARB1 (-) 1 cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+Cell_line,name,disease,category
+P388/ADR," P388/ADR cell line, NCI-DTP",Disease: Mouse lymphoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SR," SR cell line, NCI-DTP","Disease: Anaplastic large cell lymphoma, ALK-positive",Category: Cancer cell line
+SR," SR DU-145 cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+SR," CPTC-SNCG-2 cell line, ",Disease: ,Category: Hybridoma
+SR," CPTC-SNCG-1 cell line, ",Disease: ,Category: Hybridoma
+SR," SR cell line, ATCC","Disease: Anaplastic large cell lymphoma, ALK-positive",Category: Cancer cell line
+SR," SR cell line, DSMZ","Disease: Anaplastic large cell lymphoma, ALK-positive",Category: Cancer cell line
+SR," KCL22/SR cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+SR," SR-CDF1 DBT cell line, JCRB",Disease: ,Category: Transformed cell line
+SR," SR-3Y1-3 cell line, ",Disease: ,Category: Transformed cell line
+SR," SR-3Y1-2 cell line, RCB",Disease: ,Category: Transformed cell line
+Cell_line,name,disease,category
+XF 498," XF 498 cell line, NCI-DTP",Disease: Glioblastoma,Category: Cancer cell line
+Cell_line,name,disease,category
+A498," A-498 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, CLS",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, DSMZ",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, ICLC",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, ATCC",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, BCRC",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, KCLB",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, ATCC",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," A-498 cell line, IZSLER",Disease: Renal cell carcinoma,Category: Cancer cell line
+A498," NCI-H1512 cell line, ",Disease: Neoplasm,Category: Cancer cell line
+Cell_line,name,disease,category
+SN12C," SN12C cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12C cell line, KCLB",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12C-PM6 cell line, KCLB",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12C-PM6-2 cell line, ",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12A1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12K1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12L1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12C," SN12S1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SW-1573," SW1573 cell line, ATCC",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/1R50 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/1R500 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/1R10000 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/2R120 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/2R160 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/3R80 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/2R50 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/2R80 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+SW-1573," SW1573/2R250 cell line, ",Disease: Minimally invasive lung adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+786-0," 786-O cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+786-0," Hs 728.Th cell line, ATCC",Disease: ,Category: Finite cell line
+786-0," UT-SCC-51 cell line, ",Disease: Laryngeal squamous cell carcinoma,Category: Cancer cell line
+786-0," 786-O cell line, IZSLER",Disease: Renal cell carcinoma,Category: Cancer cell line
+786-0," 786-O cell line, CLS",Disease: Renal cell carcinoma,Category: Cancer cell line
+786-0," 786-O cell line, ATCC",Disease: Renal cell carcinoma,Category: Cancer cell line
+786-0," 786-O cell line, BCRC",Disease: Renal cell carcinoma,Category: Cancer cell line
+786-0," 786-O cell line, KCB",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+CAKI-1," Caki-1 cell line, NCI-DTP",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, CLS",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, TKG",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, RCB",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, IZSLER",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, DSMZ",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, JCRB",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, KCB",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, DSMZ",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+CAKI-1," Caki-1 cell line, ATCC",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+UACC-257," UACC-257 cell line, NCI-DTP",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+RXF-631," RXF 631L cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+SF-539," SF539 cell line, NCI-DTP",Disease: Gliosarcoma,Category: Cancer cell line
+Cell_line,name,disease,category
+M14," M14 cell line, NCI-DTP",Disease: Amelanotic melanoma,Category: Cancer cell line
+M14," MIN6-m14 cell line, ",Disease: Mouse insulinoma,Category: Transformed cell line
+M14," M14K cell line, ",Disease: Pleural epithelioid mesothelioma,Category: Cancer cell line
+M14," M14-A cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+M14," RC-17 SNCA-/- clone M1-4 cell line, ",Disease: ,Category: Embryonic stem cell
+M14," M1.4 cell line, ATCC",Disease: ,Category: Hybridoma
+M14," COLO 38 cell line, CLS",Disease: Amelanotic melanoma,Category: Cancer cell line
+M14," NPA cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+M14," MDA-MB-435 cell line, NCI-DTP",Disease: Amelanotic melanoma,Category: Cancer cell line
+M14," MDA-MB-435 cell line, ATCC",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+M19-MEL," M19-MEL cell line, NCI-DTP",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+PC-3," PC-3 cell line, NCI-DTP",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 cell line, CLS",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3M cell line, NCI-DTP",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 ML cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 MR cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 MK cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 [Human lung carcinoma] cell line, JCRB",Disease: Lung adenocarcinoma,Category: Cancer cell line
+PC-3," PC-3 D12 cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 D8 cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+PC-3," PC-3 MC cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+SNB-78," SNB-78 cell line, NCI-DTP",Disease: Glioblastoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+SK-BR-3," SK-BR-3 cell line, CLS",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 shPARG cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," LINTERNA SK-BR-3 cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," VAMPIRO SK-BR-3 cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 shWDR12-4 cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 cell line, KCB",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 cell line, KCLB",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 cell line, ICLC",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 cell line, RCB",Disease: Breast adenocarcinoma,Category: Cancer cell line
+SK-BR-3," SK-BR-3 cell line, TKG",Disease: Breast adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+COLO 741," COLO 741 cell line, ECACC",Disease: Melanoma,Category: Cancer cell line
+COLO 741," COLO 741 cell line, ICLC",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+MAXF 401," MAXF 401NL cell line, ",Disease: Breast carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+MDA-MB-468," MDA-MB-468 cell line, NCI-DTP",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 shPARG cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," CellSensor DBE-bla MDA-MB-468 cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 shWDR12-4 cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, DSMZ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, KCB",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, ICLC",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, ATCC",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, CLS",Disease: Breast adenocarcinoma,Category: Cancer cell line
+MDA-MB-468," MDA-MB-468 cell line, NCBI_Iran",Disease: Breast adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SN12K1," SN12K1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12K1," SN12A1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12K1," SN12L1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12K1," SN12S1 cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12K1," SN12C cell line, KCLB",Disease: Renal cell carcinoma,Category: Cancer cell line
+SN12K1," SN12C cell line, NCI-DTP",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+UISO-BCA-1," UISO-BCA-1 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+MCF7-E6," MCF-7/E6 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+MDA-MB-435S," MDA-MB-435S cell line, KCB",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435S," MDA-MB-435S cell line, ATCC",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435S," MDA-MB-435S cell line, CLS",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435S," MDA-MB-435S cell line, BCRJ",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435S," MDA-MB-435S cell line, ICLC",Disease: Amelanotic melanoma,Category: Cancer cell line
+MDA-MB-435S," MDA-MB-435s-mKate2 cell line, ",Disease: Amelanotic melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+CACO-2," Caco-2 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 CuSO4-R cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 Cu Pro-R cell line, ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, IZSLER",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, RCB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, DSMZ",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, KCLB",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, ECACC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+CACO-2," Caco-2 cell line, ATCC",Disease: Colon adenocarcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+NB4," NB4 cell line, CLS",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4 cell line, CLS",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4-LR1 cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4-AsR cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4/As cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4.007/6 cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4.306 cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4-DR1 cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4-S1 cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+NB4," NB4.437r cell line, ",Disease: Acute promyelocytic leukemia with t(15,Category: Cancer cell line
+Cell_line,name,disease,category
+Mar-Bel," Mar Bel cell line, ATCC",Disease: ,Category: Finite cell line
+Cell_line,name,disease,category
+WI-38," WI-38 VA13 subline 2RA cell line, CLS",Disease: ,Category: Transformed cell line
+WI-38," WI-38 Tr cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+WI-38," WI-38 VA13 subline 2RA cell line, ATCC",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, Coriell",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, ECACC",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, KCLB",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, RCB",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, IZSLER",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, BCRC",Disease: ,Category: Transformed cell line
+WI-38," WI-38 VA13 subline 2RA cell line, JCRB",Disease: ,Category: Transformed cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+CCD-19Lu," CCD-19Lu cell line, ECACC",Disease: ,Category: Finite cell line
+CCD-19Lu," CCD-19Lu cell line, ATCC",Disease: ,Category: Finite cell line
+CCD-19Lu," CCD-19Lu cell line, KCLB",Disease: ,Category: Finite cell line
+CCD-19Lu," CCD-19Sk cell line, ATCC",Disease: ,Category: Finite cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+ZR-75-1," ZR-75-1 cell line, CLS","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 shPARG cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 shWDR12-4 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, RCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, KCB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, TKG","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, BCRC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, ECACC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-1," ZR-75-1 cell line, KCLB","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+ZR-75-30," ZR-75-30 cell line, ATCC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-30," ZR-75-30 cell line, BCRC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-30," ZR-75-30 cell line, ECACC","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+ZR-75-30," ZR-75-27 cell line, ","Disease: Invasive ductal carcinoma, not otherwise specified",Category: Cancer cell line
+Cell_line,name,disease,category
+RPMI-7951," RPMI-7951 cell line, NCI-DTP",Disease: Melanoma,Category: Cancer cell line
+RPMI-7951," RPMI-7951 cell line, DSMZ",Disease: Melanoma,Category: Cancer cell line
+RPMI-7951," RPMI-7951 cell line, KCLB",Disease: Melanoma,Category: Cancer cell line
+RPMI-7951," RPMI-7951 cell line, ATCC",Disease: Melanoma,Category: Cancer cell line
+RPMI-7951," RPMI-7951 cell line, BCRC",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+NYH," NYH/187/162 cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," NYH/CAM cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," NYH/VM cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," NYH/187/165 cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," NYH/CIS cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," NYH/TPT cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+NYH," GLC-2 cell line, ",Disease: Small cell lung carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+SW-156," SW156 cell line, ATCC",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+CHO," CHO 1C T6 cell line, NCI-DTP",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO-K1 cell line, CLS",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO cell line, CLS",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO-10B2 cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO-pro3- cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO AC29 cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO-MG cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO-3E7 cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO DP-12 clone#1934 cell line, ATCC",Disease: ,Category: Spontaneously immortalized cell line
+CHO," CHO DP-12 clone#1933 cell line, ATCC",Disease: ,Category: Spontaneously immortalized cell line
+Cell_line,name,disease,category
+TK-164," TK-164 cell line, ",Disease: Clear cell renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+SF-767," SF767 cell line, ",Disease: Human papillomavirus-related cervical squamous cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SF-763," SF763 cell line, ",Disease: Astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+A431," A-431 cell line, CLS",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, KCLB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, KCLB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, JCRB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, JCRB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, RCB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, NCBI_Iran",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, BCRJ",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, IZSLER",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+A431," A-431 cell line, JCRB",Disease: Vulvar squamous cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+OHS," O-342 cell line, CLS",Disease: Adenocarcinoma of the rat ovary,Category: Cancer cell line
+OHS," 786-O cell line, CLS",Disease: Renal cell carcinoma,Category: Cancer cell line
+OHS," OHS-4 cell line, ",Disease: Osteosarcoma,Category: Cancer cell line
+OHS," HeLa Ohio cell line, ECACC",Disease: Human papillomavirus-related endocervical adenocarcinoma,Category: Cancer cell line
+OHS," HeLa Ohio cell line, CCLV",Disease: Human papillomavirus-related endocervical adenocarcinoma,Category: Cancer cell line
+OHS," OHS cell line, ",Disease: Osteosarcoma,Category: Cancer cell line
+OHS," SH-SY5YrDOX10 cell line, ",Disease: Neuroblastoma,Category: Cancer cell line
+OHS," MMJ-2 cell line, ",Disease: Melanoma,Category: Cancer cell line
+OHS," MDA-MB-231 SimpleCell O-GalNAC/O-Man cell line, ",Disease: Breast adenocarcinoma,Category: Cancer cell line
+OHS," Vi-856 cell line, ",Disease: Neuroblastoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+RH18," Rh18 cell line, DSMZ",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH18," Rh18c cell line, ",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH18," CLC11 cell line, ",Disease: Adult hepatocellular carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+DB," HAP1 LEPR (-) cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+DB," SN-56/OBR cell line, ",Disease: ,Category: Hybrid cell line
+DB," DB9G8 cell line, IZSLER",Disease: ,Category: Hybridoma
+DB," DB9G8 cell line, ATCC",Disease: ,Category: Hybridoma
+DB," 293-Db cell line, ",Disease: ,Category: Transformed cell line
+DB," DB cell line, DSMZ",Disease: Diffuse large B-cell lymphoma,Category: Cancer cell line
+DB," DB cell line, ATCC",Disease: Diffuse large B-cell lymphoma,Category: Cancer cell line
+DB," OP9/N cell line, RCB",Disease: ,Category: Stromal cell line
+DB," OP9/N cell line, RCB",Disease: ,Category: Stromal cell line
+DB," DB1.Tes cell line, ATCC",Disease: ,Category: Finite cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+MEXF 514L," MEXF 514L cell line, ",Disease: Melanoma,Category: Cancer cell line
+Cell_line,name,disease,category
+ES-2," ES-2/T80 cell line, ",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES-2/TxT50 cell line, ",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES2 cell line, ",Disease: Ewing sarcoma,Category: Cancer cell line
+ES-2," ES-2/GFP cell line, ",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES-2R cell line, ",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES-2 cell line, ATCC",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES-2 cell line, BCRJ",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," ES-2 cell line, BCRC",Disease: Ovarian clear cell adenocarcinoma,Category: Cancer cell line
+ES-2," SCMC-ES2 cell line, JCRB",Disease: Ewing sarcoma,Category: Cancer cell line
+ES-2," HS-ES-2M cell line, RCB",Disease: Epithelioid sarcoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+HT," HT-1080 cell line, CLS",Disease: Fibrosarcoma,Category: Cancer cell line
+HT," HT-29 cell line, NCI-DTP",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT," HT-29 cell line, CLS",Disease: Colon adenocarcinoma,Category: Cancer cell line
+HT," HT-297.T cell line, ATCC",Disease: ,Category: Finite cell line
+HT," HT-768.M cell line, ATCC",Disease: Neurofibromatosis type 1,Category: Finite cell line
+HT," HT-804.Ut cell line, ATCC",Disease: ,Category: Finite cell line
+HT," HT-805.Ut cell line, ATCC",Disease: ,Category: Finite cell line
+HT," HT-806.Ut cell line, ATCC",Disease: ,Category: Finite cell line
+HT," HT-755.Mg cell line, ATCC",Disease: ,Category: Finite cell line
+HT," HT-800.T cell line, ATCC",Disease: ,Category: Undefined cell line type
+Cell_line,name,disease,category
+RL," RL-19 cell line, ",Disease: ,Category: Spontaneously immortalized cell line
+RL," RL cell line, ATCC",Disease: Diffuse large B-cell lymphoma,Category: Cancer cell line
+RL," RL cell line, DSMZ",Disease: Diffuse large B-cell lymphoma,Category: Cancer cell line
+RL," RL14 cell line, ATCC",Disease: ,Category: Hybrid cell line
+RL," RL-34 cell line, JCRB",Disease: ,Category: Spontaneously immortalized cell line
+RL," RL159 cell line, ",Disease: Melanoma,Category: Cancer cell line
+RL," RlKd cell line, ",Disease: ,Category: Transformed cell line
+RL," RL-251 cell line, ",Disease: Adrenal cortex carcinoma,Category: Cancer cell line
+RL," HAP1 F2RL1 (-) 1 cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+RL," RL1 cell line, KCB",Disease: ,Category: Finite cell line
+Cell_line,name,disease,category
+RXF 486L," RXF 486L cell line, ",Disease: Renal cell carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+JCA-1," JCA-1 cell line, ",Disease: Bladder carcinoma,Category: Cancer cell line
+Cell_line,name,disease,category
+ND-1," ND-1 cell line, ",Disease: Prostate carcinoma,Category: Cancer cell line
+ND-1," MIRJT6i-mND1-4 cell line, ",Disease: ,Category: Induced pluripotent stem cell
+ND-1," ND1.4 cell line, NHCDR",Disease: ,Category: Induced pluripotent stem cell
+Cell_line,name,disease,category
+SW 1088," SW1088 cell line, ATCC",Disease: Astrocytoma,Category: Cancer cell line
+SW 1088," SW1088 cell line, IZSLER",Disease: Astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SW 1783," SW1783 cell line, IZSLER",Disease: Anaplastic astrocytoma,Category: Cancer cell line
+SW 1783," SW1783 cell line, ATCC",Disease: Anaplastic astrocytoma,Category: Cancer cell line
+Cell_line,name,disease,category
+SMS-KCNR," SMS-KCNR cell line, ",Disease: Neuroblastoma,Category: Cancer cell line
+SMS-KCNR," SMS-KCN cell line, ",Disease: Neuroblastoma,Category: Cancer cell line
+SMS-KCNR," SMS-KCL cell line, ",Disease: ,Category: Transformed cell line
+Cell_line,name,disease,category
+Cell_line,name,disease,category
+A673," A-673 cell line, CLS",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," A-673 cell line, ECACC",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," A-673 cell line, ATCC",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," A-673 cell line, ATCC",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," A-673 cell line, KCLB",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," A-673 clone Asp114 cell line, ",Disease: Ewing sarcoma,Category: Cancer cell line
+A673," SNK-6 cell line, ",Disease: Nasal type extranodal NK/T-cell lymphoma,Category: Cancer cell line
+Cell_line,name,disease,category
+TE85," MNNG/HOS Cl #5 cell line, CLS",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," TE-85-SF cell line, ",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," HAP1 POGZ (-) 1 cell line, ","Disease: Chronic myelogenous leukemia, BCR-ABL1 positive",Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, KCLB",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, ATCC",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, ATCC",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, CLS",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, ECACC",Disease: Osteosarcoma,Category: Cancer cell line
+TE85," MNNG/HOS Cl #5 cell line, ATCC",Disease: Osteosarcoma,Category: Cancer cell line
+Cell_line,name,disease,category
+CHA-59," CHA59 cell line, NCI-DTP",Disease: Osteosarcoma,Category: Cancer cell line
+Cell_line,name,disease,category
+RH30," Rh30 cell line, DSMZ",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH30," Rh30 cell line, ATCC",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH30," Rh30 cell line, BCRJ",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH30," Rh30 cell line, BCRC",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH30," Rh30rVCR10 cell line, ",Disease: Alveolar rhabdomyosarcoma,Category: Cancer cell line
+RH30," DPZcjESC3 cell line, ",Disease: ,Category: Embryonic stem cell
+Cell_line,name,disease,category
+RD," RD cell line, CLS",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD-ES cell line, CLS",Disease: Ewing sarcoma,Category: Cancer cell line
+RD," 28SC-ES cell line, JCRB",Disease: Adult acute monocytic leukemia,Category: Cancer cell line
+RD," RD cell line, KCLB",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, ATCC",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, ATCC",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, BCRC",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, IZSLER",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, JCRB",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
+RD," RD cell line, ATCC",Disease: Embryonal rhabdomyosarcoma,Category: Cancer cell line
